@@ -2,4 +2,4 @@ streamlit
 altair
 pandas
 numpy
-cx_oracle
+cx_Oracle
