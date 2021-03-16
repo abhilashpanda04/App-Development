@@ -3,3 +3,4 @@ altair
 pandas
 numpy
 cx_Oracle
+sqlalchemy 
